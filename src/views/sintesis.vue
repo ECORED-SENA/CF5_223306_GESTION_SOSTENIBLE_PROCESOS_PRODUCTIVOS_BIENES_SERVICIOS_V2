@@ -6,8 +6,7 @@
 
     .row.justify-content-center
       .col-lg-10.mb-5
-        figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
+        img.img-a.img-t(src="@/assets/curso/temas/sintesis.svg", alt="Esquema general del componente formativo, que enuncia las temáticas desarrolladas en el mismo y destaca aspectos clave estudiados. Tema central: diagnosticar y promover actividades de innovación. Temas integradores: diagnosticar la innovación en la empresa, generar acciones de mejora, investigar al cliente y al mercado, definir el tipo de innovación a implementar, implementar el método de innovación, establecer el modelo de negocio innovador y validar el producto o servicio en el mercado.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
