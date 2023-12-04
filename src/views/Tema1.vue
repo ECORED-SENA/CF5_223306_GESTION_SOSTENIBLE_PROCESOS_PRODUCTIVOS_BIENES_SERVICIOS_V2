@@ -180,7 +180,7 @@
     #t_1_2
     .titulo-segundo.color-acento-botones
       h2 1.2 Diagnóstico, recolección y análisis de información
-    p Con respecto a la sostenibilidad, en las tiendas virtuales, se destaca que ya no se requiere contar con instalaciones físicas, donde se necesite hacer uso de una iluminación durante toda la jornada, adicionalmente, la publicidad en estos canales es digital, lo cual elimina el uso de papel en volantes, tarjetas y demás elementos de material de promoción y publicidad tradicional.
+    p Se puede definir un diagnóstico como una fotografía inicial con la evaluación de las variables establecidas, con el fin de conocer el estado en que se encuentra un individuo u organización, buscando reconocer las debilidades, necesidades y fortalezas.
     .row.h-100.justify-content-evenly.mb-5
       .col-md-9.col-lg-5.mb-4.mb-lg-0
         .row

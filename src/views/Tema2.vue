@@ -378,7 +378,7 @@
         .titulo-sexto.color-acento-botones
           p.mb-0 #[b Figura 2]. Metodología #[i Lean Startup]
         figure
-          img(src='@/assets/curso/tema2/img24.svg', alt="Las fases de la metodología Lean Startup, son: 1.	 Generar una idea que responda a las necesidades y expectativas del consumidor. 2.	 Desarrollar un producto o servicio factible de acuerdo a la idea establecida. 3.	 Evaluar y analizar los resultados por parte del consumidor, quien reaiza la medición con indicadores establecidos por la empresa, con el fin de analizar su impacto en el mercado. 4.	 Repetir el proceso basado en un modelo de mejora continua; ya que posterior a la evaluación del prototipo, es necesario desarrollar ajsutes, razón por la cual se vuelve a la etapa dos.")
+          img(src='@/assets/curso/tema2/img24.svg', alt="Imagen que presenta las 4 fases de la metodología Lean Startup.")
     .row.mb-4
       .col-auto.p-3.bg-c2
         h4.mb-0 #[i Forth Innovation Method] (Método de innovación adelantado)
@@ -433,7 +433,7 @@
               p.mb-0 En esta etapa, se acondiciona la información para ser transmitida en un lenguaje apto para los lectores. Es importante estructurar qué información se va a dar a conocer y cuál permanece reservada para la empresa. Algunos ejemplos corresponden a transmitir los resultados de los impactos de la innovación o sostenibilidad para el medio ambiente, pero sin indicar las cifras ni procedimientos de formulación con los cuales se llegó al producto sostenible.
     .row.mb-4
       .col-auto.p-3.bg-c2
-        h4.mb-0 Preparar el conocimiento a divulgar
+        h4.mb-0 Divulgación del conocimiento
     p.mb-5 En esta etapa, se transmite el conocimiento preparado para ser consultado por el público objetivo. Esta divulgación se puede clasificar en:
     .row.h-100.justify-content-evenly
       .col-md-9.col-lg-5.mb-4.mb-lg-0
