@@ -18,8 +18,8 @@
         p.mb-0 #[b Para conocer las temáticas a desarrollar, observe el video a continuación:]
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    figcaption.mb-5 Video.
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/qEgQ2m0BtX0?si=LnNbXIlW3fp0G5Se" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    figcaption.mb-5 Video. Diagnosticar y promover actividades de innovación
     p.mb-0 La metodología del componente es teórico-práctica, porque se contextualiza al lector con definiciones y explicaciones de casos prácticos, a los cuales se les profundizará con videos multimedia como material complementario, culminando con actividades didácticas para validar el conocimiento y un trabajo práctico, a través del desarrollo de una guía de aprendizaje.    
 </template>
 

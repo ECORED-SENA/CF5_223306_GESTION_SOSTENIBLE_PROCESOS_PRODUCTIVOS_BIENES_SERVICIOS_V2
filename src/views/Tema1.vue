@@ -464,8 +464,8 @@
     p.mb-5 Existe una multitud de #[b modelos de negocio innovadores], pero algunos ejemplos de estos tipos de modelo son:
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    figcaption.mb-5 Video. 
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/6p_MNh0oQu4?si=yEdDZjpUQ3E789o3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    figcaption.mb-5 Video. Tipos de modelos de negocio innovadores 
     .row.mb-4
       .col-auto.p-3.bg-c2
         h4.mb-0 B. Modelos de negocio sostenible
@@ -570,8 +570,8 @@
     p.mb-5 Los métodos para realizar la promoción y comercialización de un producto o servicio hasta su venta son conocidos como mercadeo, el cual tiene diversas actividades que van desde la planeación del producto o servicio, pasando por la estrategia de posicionamiento en un nicho de mercado, hasta la gestión comercial, en su promoción, venta o servicio posventa. #[b En el siguiente video, se pueden observar algunos ejemplos enfocados en la comercialización de bienes y servicios innovadores y/o sostenibles de acuerdo con el tipo de mercadeo]:
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    figcaption.mb-5 Video.         
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/BiuBBFz3gcI?si=48jlmwpDhwpzDbZe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    figcaption.mb-5 Video. Comercialización de bienes y servicios innovadores y sostenibles         
     .row.mb-4
       .col-auto.p-3.bg-c2
         h4.mb-0 Segmentación de mercado
