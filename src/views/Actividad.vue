@@ -10,8 +10,8 @@
             img(src="@/assets/template/Arrastrar_Soltar.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Innovación, gestión del conocimiento y sostenibilidad
-        p.mb-4 Validar los conceptos y conocimientos adquiridos en cuanto a la innovación y a la gestión del conocimiento, como herramientas para mejorar procesos sostenibles en las empresas. 
+          h2 Diagnosticar y promover actividades de innovación
+        p.mb-4 Validar los conceptos y conocimientos adquiridos en cuanto a la Diagnosticar y promover actividades de innovación, como herramientas para mejorar procesos sostenibles en las empresas. 
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

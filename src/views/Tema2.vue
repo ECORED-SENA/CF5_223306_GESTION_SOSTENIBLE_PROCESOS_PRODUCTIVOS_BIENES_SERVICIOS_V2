@@ -216,7 +216,7 @@
         h4.mb-0 Bases de datos
     .row.align-items-center.mb-5
       .col-lg-8.mb-4.mb-lg-0
-        p Son sistemas de información en los cuales se almacenan, organizan y se consultan datos e información. En la actualidad, existen diferentes herramientas tecnológicas para el apoyo en la gestión de las bases de datos, las cuales pueden encontrarse con #[i softwares] locales internos para la organización o herramientas para consulta externa, como son las páginas web especializadas, #[i softwares], plataformas de procesamiento y tendencias de datos especializados en sectores, productos o servicios.
+        p Son sistemas de información en los cuales se almacenan, organizan y se consultan datos e información. En la actualidad, existen diferentes herramientas tecnológicas para el apoyo en la gestión de las bases de datos, las cuales pueden encontrarse con #[i software] locales internos para la organización o herramientas para consulta externa, como son las páginas web especializadas, #[i software], plataformas de procesamiento y tendencias de datos especializados en sectores, productos o servicios.
         p Con los nuevos desarrollos tecnológicos, es posible acceder a las bases de datos desde diferentes dispositivos, tales como equipos de cómputo, tabletas, telefonía celular; desde diferentes lugares del mundo, por múltiples usuarios, con variedad de permisos, con lo cual se podrán registrar y actualizar datos y conocimientos en tiempo real. Algunos ejemplos en bases de datos sobre innovación y sostenibilidad para la producción de bienes y servicios son:
       .col-lg-4
         figure
@@ -283,7 +283,7 @@
           img(src='@/assets/curso/tema2/img19.svg', style="width: 80px")
         p.mb-0 #[b Proespectiva]
         p.mb-4 #[b De innovación]
-        p En la cual se deben incluir tendencias y estadísticas de tecnología, nuevo conocimiento, maquinaria, equipos, nuevos materiales y software.
+        p En la cual se deben incluir tendencias y estadísticas de tecnología, nuevo conocimiento, maquinaria, equipos, nuevos materiales y #[i software].
       .tarjeta.color-acento-botones1.p-4
         figure.mb-4
           img(src='@/assets/curso/tema2/img19.svg', style="width: 80px")
@@ -407,7 +407,7 @@
         .tarjeta.color-primario7
           .p-4
             p.mb-0 #[b #[i Test ideas] (testear las ideas)]
-            p.mb-0 En este paso, se validan las ideas y prototipos desarrollados, con el fin de establecer si responden a las necesidades del consumidor/cliente, para lo cual se toma una muestra de los consumidores/clientes  para evaluarlo.
+            p.mb-2 En este paso, se validan las ideas y prototipos desarrollados, con el fin de establecer si responden a las necesidades del consumidor/cliente, para lo cual se toma una muestra de los consumidores/clientes  para evaluarlo.
       .tarjeta-avatar
         img(src='@/assets/curso/tema2/img29.svg' alt='AvatarTop' style="width:120px")
         .tarjeta.color-primario7

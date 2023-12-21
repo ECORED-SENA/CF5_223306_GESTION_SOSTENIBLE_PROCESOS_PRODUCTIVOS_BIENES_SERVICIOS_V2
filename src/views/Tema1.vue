@@ -92,7 +92,7 @@
             p Los cuales permiten fabricar productos las 24 horas, en los siete días de la semana, sin necesitar personal.
           .tarjeta.color-secundario.p-3(x="25%" y="50%" numero="+")
             .h5.mb-2 Utilización de energías renovables
-            p Incluir vehículos, en operaciones logísticas, que utilizan combustibles no fósiles (biodiesel, carros eléctricos, entre otros) reduce el impacto de la huella de carbono en el medio ambiente.
+            p Incluir vehículos, en operaciones logísticas, que utilizan combustibles no fósiles (biodiésel, carros eléctricos, entre otros) reduce el impacto de la huella de carbono en el medio ambiente.
           .tarjeta.color-secundario.p-3(x="50%" y="100%" numero="+")
             .h5.mb-2 Sostenibilidad
             p Si incluimos en estos ejemplos de innovación de proceso la sostenibilidad, se puede contar con equipos de bajo consumo energético que utilizan energías renovables.
@@ -315,7 +315,7 @@
                   h5 Figura 1.
                   span Ejemplo diagrama Causa Efecto             
                 figure
-                  img(src='@/assets/curso/tema1/img36.svg', style="width: 950px").m-auto
+                  img(src='@/assets/curso/tema1/img36.svg', style="width: 950px",alt="Imagen que presenta un ejemplo de un diagrama causa efecto.").m-auto
         .row.justify-content-center.mb-5
           .col-lg-10.p-4.bg-c11
             .row
@@ -718,7 +718,7 @@
         img(src='@/assets/curso/tema1/img61.svg' alt='AvatarTop' style="width:120px")
         .tarjeta.color-primario3
           .p-4
-            p.text-center.mb-0 #[b Desarrolar estrategias de mercadeo.]
+            p.text-center.mb-0 #[b Desarrollar estrategias de mercadeo.]
       .tarjeta-avatar
         img(src='@/assets/curso/tema1/img61.svg' alt='AvatarTop' style="width:120px")
         .tarjeta.color-primario4
@@ -853,7 +853,7 @@
           .row.align-items-center
             .col-lg-8.mb-4.mb-lg-0
               h4 TRL 3 - Investigación aplicada prueba de concepto
-              p En esta fase, inicia la validación de la idea, la función crítica analítica y experimental, así como la prueba de concepto.
+              p En esta fase, inicia la validación de la idea, la función crítica, analítica y experimental, así como la prueba de concepto.
             .col-lg-4
               figure
                 img(src='@/assets/curso/tema1/img70.svg', style="width: 70px").m-auto

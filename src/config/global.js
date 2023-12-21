@@ -298,21 +298,6 @@ export default {
           centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
         },
         {
-          nombre: 'Luz Aída Quintero Velásquez',
-          cargo: 'Diseñadora instruccional',
-          centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
-        },
-        {
-          nombre: 'Ana Catalina Córdoba Sus',
-          cargo: 'Asesora metodológica',
-          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
-        },
-        {
-          nombre: 'Darío González',
-          cargo: 'Corrector de estilo',
-          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
-        },
-        {
           nombre: 'Ana Catalina Córdoba Sus',
           cargo: 'Metodólogo para formación virtual',
           centro:
