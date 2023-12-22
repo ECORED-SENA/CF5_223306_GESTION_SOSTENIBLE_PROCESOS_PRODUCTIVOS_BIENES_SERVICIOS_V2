@@ -386,31 +386,31 @@
     SlyderF(columnas="col-9 col-lg-6 col-xl-4")
       .tarjeta-avatar
         img(src='@/assets/curso/tema2/img25.svg' alt='AvatarTop' style="width:120px")
-        .tarjeta.color-primario7
+        .tarjeta.color-primario7.h-100
           .p-4
             p.mb-0 #[b #[i Full steam ahead] (a toda máquina)]
             p.mb-0 En esta etapa, se construye un equipo de personas especializadas, quienes buscarán las oportunidades de mejora.
       .tarjeta-avatar
         img(src='@/assets/curso/tema2/img26.svg' alt='AvatarTop' style="width:120px")
-        .tarjeta.color-primario7
+        .tarjeta.color-primario7.h-100
           .p-4
             p.mb-0 #[b #[i Observe &amp; Learn] (observar y aprender)]
             p.mb-0 Se conocen las necesidades del consumidor, por medio de una interacción y entrevistas con él.
       .tarjeta-avatar
         img(src='@/assets/curso/tema2/img27.svg' alt='AvatarTop' style="width:120px")
-        .tarjeta.color-primario7
+        .tarjeta.color-primario7.h-100
           .p-4
             p.mb-0 #[b #[i Raise Ideas] (generación de ideas)]
             p.mb-0 Se proponen posibles soluciones, teniendo en cuenta las necesidades del cliente y el enfoque de innovación.
       .tarjeta-avatar
         img(src='@/assets/curso/tema2/img28.svg' alt='AvatarTop' style="width:120px")
-        .tarjeta.color-primario7
+        .tarjeta.color-primario7.h-100
           .p-4
             p.mb-0 #[b #[i Test ideas] (testear las ideas)]
             p.mb-2 En este paso, se validan las ideas y prototipos desarrollados, con el fin de establecer si responden a las necesidades del consumidor/cliente, para lo cual se toma una muestra de los consumidores/clientes  para evaluarlo.
       .tarjeta-avatar
         img(src='@/assets/curso/tema2/img29.svg' alt='AvatarTop' style="width:120px")
-        .tarjeta.color-primario7
+        .tarjeta.color-primario7.h-100
           .p-4
             p.mb-0 #[b #[i Homecoming] (vuelta a casa)]
             p.mb-0 En esta etapa, se analizan los resultados, se realizan ajustes y se construye el modelo de negocio.
